@@ -1,2 +1,2 @@
 # Illumaphone
-Using C++ and Arduino to create a musical Illumaphone 
+Using Python and Arduino to create a musical Illumaphone 
